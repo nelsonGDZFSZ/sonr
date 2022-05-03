@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Sonr Blog</title>
-        <link>https://docs.sonr.io/blog</link>
+        <link>https://sonr-io.github.io/blog</link>
         <description>Sonr Blog</description>
         <lastBuildDate>Mon, 02 May 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[Getting Started]]></title>
-            <link>https://docs.sonr.io/blog/getting-started</link>
+            <link>https://sonr-io.github.io/blog/getting-started</link>
             <guid>getting-started</guid>
             <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Our Highway-SDK requires a Peer connection for interfacing with our persistence layer. To interface with our chain there are two methods.&#x20;]]></description>
@@ -20,7 +20,7 @@
         </item>
         <item>
             <title><![CDATA[Installation]]></title>
-            <link>https://docs.sonr.io/blog/installation</link>
+            <link>https://sonr-io.github.io/blog/installation</link>
             <guid>installation</guid>
             <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Requirements&#xA;]]></description>
@@ -29,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[Building with Highway]]></title>
-            <link>https://docs.sonr.io/blog/building-with-highway</link>
+            <link>https://sonr-io.github.io/blog/building-with-highway</link>
             <guid>building-with-highway</guid>
             <pubDate>Fri, 15 Apr 2022 21:43:34 GMT</pubDate>
             <description><![CDATA[---]]></description>
