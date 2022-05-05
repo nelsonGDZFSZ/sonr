@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksonr_docs=self.webpackChunksonr_docs||[]).push([[2535],{5641:function(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Getting Started","permalink":"/blog/getting-started"},{"title":"Installation","permalink":"/blog/installation"},{"title":"Building with Highway","permalink":"/blog/building-with-highway"}]}')}}]);
